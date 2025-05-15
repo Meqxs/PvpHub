@@ -1,7 +1,7 @@
 # 🛡️ PvpHud - Minecraft Combat Overlay Plugin  
 Created by **Meqxs**
 
-PvpHud is a lightweight and user-friendly Minecraft plugin designed to provide essential PvP data directly on your screen. Whether you're in intense 1v1 duels or chaotic team fights, PvpHud keeps you informed with real-time updates on your armor durability, FPS, and ping — helping you gain the upper hand in every battle. Some file is named NoAlts because I used my fabric template for another plugin, this will be fixed later on.
+PvpHud is a lightweight and user-friendly Minecraft plugin designed to provide essential PvP data directly on your screen. Whether you're in intense 1v1 duels or chaotic team fights, PvpHud keeps you informed with real-time updates on your armor durability, FPS, and ping — helping you gain the upper hand in every battle. Some files are named NoAlts because I used my fabric template for another plugin, this will be fixed later on.
 
 ---
 
