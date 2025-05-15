@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "meqxshud",
+	"version": "${version}",
+	"name": "MeqxsHud",
+	"description": "A mod that displays armor slots with durability bars next to the hotbar",
+	"authors": [
+		"Meqxs"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/meqxshud/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"github.meqxs.NoAlts"
+		],
+		"client": [
+			"github.meqxs.client.NoAltsClient"
+		],
+		"fabric-datagen": [
+			"github.meqxs.NoAltsDataGenerator"
+		]
+	},
+	"mixins": [
+		"noalts.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
