@@ -26,7 +26,7 @@ PvpHud is a lightweight and user-friendly Minecraft plugin designed to provide e
 
 ## 📥 Installation
 
-1. Download the latest version of **PvpHud.jar** from my mondrith - (still in review) 
+1. Download the latest version of **PvpHud.jar** from my mondrith - (https://modrinth.com/mod/pvphud) 
 2. Place the `.jar` file into your server’s `plugins` folder.  
 3. Restart or reload your Minecraft server.  
 4. The plugin should now be active — no extra config needed!
@@ -36,8 +36,7 @@ PvpHud is a lightweight and user-friendly Minecraft plugin designed to provide e
 ## 🧪 Compatibility
 
 - ✅ **Minecraft Version:** Currently 1.21.4, 1.21.5
-- ✅ **Server Types:** Spigot, Paper, Purpur  
-- ⚠️ **Client-Side Support:** Not required; fully server-side
+- ⚠️ **Client-Side Support:** Is required
 
 ---
 
@@ -51,7 +50,7 @@ No commands needed! PvpHud is plug-and-play. Once installed, players will automa
 
 ## 🌐 Updates
 
-Check out my upcoming updates by visiting my mondrith page - (still in review)
+Check out my upcoming updates by visiting my mondrith page - (https://modrinth.com/mod/pvphud)
 
 ---
 
